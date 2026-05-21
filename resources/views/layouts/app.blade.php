@@ -40,7 +40,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
     <div class="container">
         <a class="navbar-brand" href="{{ route('berita.index') }}">
-            Berita SMKN 1 Bawang
+            Berita SMKN 1 BAWANG
         </a>
     </div>
 </nav>
